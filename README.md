@@ -49,3 +49,17 @@ The system was tested using real-world sample customer queries to validate class
 ## Conclusion
 
 This project serves as a proof-of-concept showcasing how AI automation can be applied to real business workflows in a D2C environment.
+
+
+## Demo Screenshots
+
+### AI Prompt Testing
+
+![Prompt Input](screenshots/one.png)
+
+![Prompt Output](screenshots/two.png)
+
+![Terminal Output](screenshots/three.png)
+
+![Google Sheet](screenshots/four.png)
+
